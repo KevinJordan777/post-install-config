@@ -20,7 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
+This section focuses mainly on setting up the OSticket environment as an Admin by creating and cofiguring the settings that will be used by both agents and clients.
 
 From the Admin panel creat 3 new SLA's SEV-A, SEV-B and SEV-C.
 
@@ -43,7 +43,7 @@ Create the OS ticket user profiles Ken and Karen, who will be submitting tickets
 <img src="https://i.imgur.com/5nLXxgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
 </p>
 <br />
 
