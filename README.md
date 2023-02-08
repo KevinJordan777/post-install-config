@@ -21,6 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
+
 From the Admin panel creat 3 new SLA's SEV-A, SEV-B and SEV-C.
 - Item 3
 - Item 4
