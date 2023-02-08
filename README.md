@@ -23,7 +23,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
 
 From the Admin panel creat 3 new SLA's SEV-A, SEV-B and SEV-C.
-- Item 3
+
+Add 4 new help topics: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset
 - Item 4
 - Item 5
 
@@ -47,6 +48,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 <img src="https://i.imgur.com/hgw329A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dKVwjLv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
