@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 This section focuses mainly on setting up the OSticket environment as an Admin by creating and cofiguring the settings that will be used by both agents and clients.
 
-As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
+As Supreme Admin, go to system settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
 
 From the Admin panel creat 3 new SLA's SEV-A, SEV-B and SEV-C.
 
