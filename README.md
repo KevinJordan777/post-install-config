@@ -45,7 +45,7 @@ Create the OS ticket user profiles Ken and Karen, who will be submitting tickets
 <img src="https://i.imgur.com/5nLXxgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket rquest from clients Ken and Karen.
+As Supreme Admin, go to system setting settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket request from clients Ken and Karen.
 </p>
 <br />
 
