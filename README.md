@@ -53,7 +53,7 @@ As Supreme Admin, go to system setting settings and preferrences. Create and def
 <img src="https://i.imgur.com/hgw329A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the Admin panel creat 3 new SLA's SEV-A, SEV-B and SEV-C.
+From the Admin panel create 3 new SLA's SEV-A, SEV-B and SEV-C.
 </p>
 <br />
 
