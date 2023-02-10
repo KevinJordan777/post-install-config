@@ -69,6 +69,14 @@ Add 4 new help topics: Business Critical Outage, Personal Computer Issues, Equip
 <img src="https://i.imgur.com/Kr1vS8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the OS ticket user profiles Ken and Karen, who will be submitting tickets for Jane and John Doe to resolve
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Hkqksvc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create the OS ticket user profiles Ken and Karen, who will be submitting tickets for Jane and John Doe to resolve 
 </p>
 <br />
